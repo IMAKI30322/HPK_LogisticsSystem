@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="https://github.com/IMAKI30322/HPK_LogisticsSystem/blob/main/LogSystemServerInstaller.appinstaller"
+	Uri="Uri="https://raw.githubusercontent.com/IMAKI30322/HPK_LogisticsSystem/refs/heads/main/LogSystemServerInstaller.appinstaller""
 	Version="1.7.0.0" 
 	xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
@@ -14,3 +14,4 @@
 	</UpdateSettings>
 
 </AppInstaller>
+
