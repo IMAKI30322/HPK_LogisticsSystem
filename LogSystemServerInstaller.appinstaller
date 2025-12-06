@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="file:///E:/projects/HPK_LogisticsSystem_Server2/APP_Package/LogSystemServerInstaller.appinstaller"
+	Version="1.7.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="LogSystemServer-Installer"
+		Version="1.7.0.0"
+		Publisher="CN=HondaPartsKansai"
+		Uri="file:///E:/projects/HPK_LogisticsSystem_Server2/APP_Package/LogSystemServerInstaller_1.7.0.0_Test/LogSystemServerInstaller_1.7.0.0_AnyCPU.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
